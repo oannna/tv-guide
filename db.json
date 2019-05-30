@@ -2,11 +2,13 @@
     "shows": [
         {
         "id": "1",
-        "name": "The nanny"
+        "name": "The nanny",
+        "icon": "https://imageresizer.static9.net.au/_NqJz-Vd178S3grBuycNYONttzc=/400x0/http%3A%2F%2Fprod.static9.net.au%2F_%2Fmedia%2FNetwork%2FImages%2F2018%2F06%2F21%2F16%2F47%2F_OpeningSlide.jpg"
       }, 
       {
         "id": "2",
-        "name": "Friends"
+        "name": "Friends",
+        "icon": "https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR0,0,182,268_AL_.jpg"
       }
     ]
 }
